@@ -1,0 +1,27 @@
+Nominal
+o Nominal scales are used for labeling variables, without any 
+quantitative value. “Nominal” scales could simply be called “labels.” 
+o all of the scales shown below are mutually exclusive (no overlap) and 
+none of them have any numerical significance.
+o Properties: distinctness (= != are meaningful)
+o Ex. ID Numbers, eye color, Zip Codes
+• Ordinal
+o With ordinal scales, the order of the values is what’s important and 
+significant, but the differences between each one is not really known.
+o Ordinal scales are typically measures of non-numeric concepts like 
+satisfaction, happiness, discomfort, etc.
+o distinctness and order, (= != < > are meaningful)
+o Ex. Grades, ranks etc. 
+• Interval
+o Interval scales are numeric scales in which we know both the order 
+and the exact differences between the values. 
+o For interval attributes, differences between values are meaningful.
+o Properties: distinctness, order and differences, (= != < > + - are 
+meaningful)
+o Ex. Calender dates, temperature in Celsius
+• Ratio
+o For ratio attributes, both differences and ratio are meaningful. 
+o They have an absolute 0. 
+o Properties: distinctness, order, differences and ratios (= != < > + - * / 
+are meaningful)
+o Ex. Temperature in Kelvin, age, mass.
